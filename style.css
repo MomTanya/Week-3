@@ -3,10 +3,14 @@
     --secondary-color: #f5f2fe;
     --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
   }
+  .main-container {
+    display: block;
+    margin: 20px;
+    text-align: center;
+  }
   
   body {
-    margin: 100 0;
-    max-width: 800px;
+    margin: 100 0; 
   }
   
   h1,
